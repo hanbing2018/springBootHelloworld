@@ -1,0 +1,17 @@
+#和prefix的值保持一致
+#person:
+#  firstName: 悟空
+#  last-name: 孙
+#  birthday: 2011/12/06 09:12:30
+#  dog:
+#    name: 旺财
+#    age: 3
+#  map:
+#    k1: 第一个值
+#    k2: lskaf
+#  list:
+#    - apple
+#    - 橘子
+#  sts:
+#    - zhangsan
+#    - 赵四
